@@ -1,8 +1,8 @@
-# EA-JobSim
+# EA-Internship
 
-### Electronic Arts Software Engineering Virtual Experience Program
+### Electronic Arts Software Engineering Intership
 
-This repository contains the tasks and outputs for the Electronic Arts (EA) Software Engineering Virtual Experience Program on Forage. Below is an overview of the project tasks and files included in this repository.
+This repository contains the tasks and outputs for the Electronic Arts (EA) Software Engineering Intership. Below is an overview of the project tasks and files included in this repository.
 
 ---
 
